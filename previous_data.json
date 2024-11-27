@@ -1,0 +1,91 @@
+{
+    "adm-2": {
+        "name": "Nantege Hounaidah",
+        "marks": {
+            "Maths": 90,
+            "English": 40,
+            "SST": 50,
+            "Science": 60
+        }
+    },
+    "adm-3": {
+        "name": "Housha",
+        "marks": {
+            "Maths": 40,
+            "English": 50,
+            "SST": 60,
+            "Science": 80
+        }
+    },
+    "adm-5": {
+        "name": "Nansereko",
+        "marks": {
+            "Maths": 90,
+            "English": 28,
+            "SST": 48,
+            "Science": 59
+        }
+    },
+    "adm-1": {
+        "name": "Housnah",
+        "marks": {
+            "SST": 90,
+            "SCIENCE": 59,
+            "ENGLISH": 69
+        }
+    },
+    "adm9": {
+        "name": "housh",
+        "marks": {
+            "Maths": 99,
+            "English": 78,
+            "SST": 90,
+            "Science": 90
+        }
+    },
+    "adm7": {
+        "name": "hjhhf",
+        "marks": {
+            "Maths": 90,
+            "English": 89,
+            "SST": 99,
+            "Science": 90
+        }
+    },
+    "adm1": {
+        "name": "90",
+        "marks": {
+            "Maths": 90,
+            "SST": 90,
+            "English": 90,
+            "Science": 90
+        }
+    },
+    "jks": {
+        "name": "jjhd",
+        "marks": {
+            "Maths": 90,
+            "English": 5,
+            "SST": 68,
+            "Science": 69
+        }
+    },
+    "ghgk": {
+        "name": "hj",
+        "marks": {
+            "Maths": 90,
+            "English": 89,
+            "SST": 77,
+            "Science": 89
+        }
+    },
+    "001": {
+        "name": "nansereko",
+        "marks": {
+            "Maths": 90,
+            "Science": null,
+            "SST": 70,
+            "English": null
+        }
+    }
+}
